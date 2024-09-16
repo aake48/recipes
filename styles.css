@@ -1,0 +1,32 @@
+h1 {
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 34px;
+    font-weight: bold;
+    -webkit-text-stroke: 1px black;
+}
+
+h2 {
+    color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    -webkit-text-stroke: 1px black;
+
+}
+
+ul {
+    text-decoration: underline;
+}
+
+ol {
+    text-decoration: underline;
+}
+
+
+
+li {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    background-color: lightgreen;
+
+}
